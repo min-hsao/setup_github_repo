@@ -1,0 +1,2 @@
+# No external dependencies - uses only standard library
+# Requires: git, gh (GitHub CLI)
